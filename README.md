@@ -1,0 +1,2 @@
+# Buildings
+Test autoation training
